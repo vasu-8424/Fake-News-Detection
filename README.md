@@ -1,5 +1,7 @@
 # 📰 Fake News Detection Project
-
+#How to run the project 
+For backend go backend and run
+For frontend directly run the project 
 This is a full-stack Fake News Detection application built with machine learning, user authentication, and a fun memory game to help users relax and refresh their minds.
 
 ## 🔍 Features
